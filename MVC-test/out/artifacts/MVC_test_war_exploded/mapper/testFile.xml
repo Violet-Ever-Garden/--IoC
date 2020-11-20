@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><mapper>
+<property>id</property>
+<property>name</property>
+<property>age</property>
+<property>gender</property>
+<property>major</property>
+</mapper>
